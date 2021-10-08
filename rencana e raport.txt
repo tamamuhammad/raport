@@ -1,0 +1,33 @@
+logo dan nama sistem disesuaikan
+
+pada bagian menu sidebar setiap menu yang aktif diberi style.
+
+icon menu sidebar diubah/sesuaikan dg yg baru
+
+warna sidebar (hijau ungu) diubah sesuai kebutuhan
+
+footer disesuaikan.
+
+-pada bagian topbar, login sebagainya diubah menjadi nama siswa yg login, 
+dan diberi separator antara yg login dg logout.
+
+
+-----------------------------------------------
+password default guru baru diganti : "susuai kebutuhan/request".
+
+warna tombol menggunakan border ganti dg warna solid.
+
+warna biru diganti hijau sesuai sidebar
+
+admin
+- admin
+- super90
+
+guru:
+budi
+guru123
+
+siswa
+menggunakan nis
+
+
